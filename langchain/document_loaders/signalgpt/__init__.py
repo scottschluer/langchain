@@ -1,3 +1,3 @@
-from langchain.document_loaders.signalgpt.pdf import SignalPyPDFLoader
+from .pdf import SignalPyPDFLoader
 
 __all__ = ["SignalPyPDFLoader"]

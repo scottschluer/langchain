@@ -1,7 +1,6 @@
 """Loader that loads PDF files."""
 import logging
 import os
-import tempfile
 from abc import ABC
 from typing import List
 import secrets
